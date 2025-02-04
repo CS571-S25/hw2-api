@@ -1,0 +1,7 @@
+{
+    "SESSION_LENGTH": 3600,
+    "TIMEOUT_WINDOW_LENGTH": 30,
+    "TIMEOUT_WINDOW_REQS": 100,
+    "STUDENT_INFO_LOC": "C:/Users/ctnelson1997/Desktop/cs571/su24/hws/apis/hw2-api/clazz.secret",
+    "LOG_IPS": false
+}

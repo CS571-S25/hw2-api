@@ -1,0 +1,7 @@
+{
+    "SESSION_LENGTH": 3600,
+    "TIMEOUT_WINDOW_LENGTH": 30,
+    "TIMEOUT_WINDOW_REQS": 100,
+    "STUDENT_INFO_LOC": "/cs571/clazz.secret",
+    "LOG_IPS": false
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": {
+      "first": "Jane",
+      "last": "Smith"
+    },
+    "fromWisconsin": false,
+    "numCredits": 12,
+    "major": "Computer Science",
+    "interests": [
+      "Running",
+      "Science"
+    ]
+  },
+  {
+    "name": {
+      "first": "Jon",
+      "last": "Doe"
+    },
+    "fromWisconsin": false,
+    "numCredits": 18,
+    "major": "Computer Engineering",
+    "interests": [
+      "Kayaking"
+    ]
+  },
+  {
+    "name": {
+      "first": "Cole",
+      "last": "Nelson"
+    },
+    "fromWisconsin": true,
+    "numCredits": 999,
+    "major": "Software Engineering",
+    "interests": [
+      "Coffee",
+      "Programming",
+      "XSS",
+      "<image src='someimgthatdne.png' onerror='alert(\"Uh oh! I control your page!\"); document.getElementsByTagName(\"h1\")[0].innerText=\"Coles Book!\"'/>"
+    ]
+  }
+]
